@@ -1,0 +1,2 @@
+i finally got git working after several "denied access"
+turns out I need to change my credentials of my git in the user settings
